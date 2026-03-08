@@ -17,7 +17,8 @@
 * 🐛 **Vuln Checker [IN DEV]:** Upcoming local database integration to match banners with known CVEs.
 
 ---
-/home/nohat/Desktop/NoMap/Screenshot_2026-03-08_08-03-58.png
+<img width="1085" height="832" alt="Screenshot_2026-03-08_08-03-58" src="https://github.com/user-attachments/assets/cb6a4623-08e7-48cb-86c9-cdeff7bbbff4" />
+
 
 ## 🚀 Installation & Usage
 
