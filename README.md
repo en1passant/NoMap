@@ -1,23 +1,26 @@
-# 👁️‍🗨️ NoMap v1.5 - Secure Reconnaissance Tool
-> "Simplicity is the ultimate sophistication in network security."
+# 🎯 NoMap v2.0
+**Advanced Network Reconnaissance & Auto-Chaining Tool**
 
-**NoMap** is a Python-based network reconnaissance tool developed for ethical hackers. It provides a fast, reliable, and color-coded interface to perform port scanning and network intelligence gathering.
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Version](https://img.shields.io/badge/Version-2.0%20Stable-green.svg)
+![License](https://img.shields.io/badge/License-MIT-red.svg)
 
-## 🚀 Key Features
-- **Smart Scanning:** Quick recon for common ports & deep scan for custom ranges.
-- **Network Intel:** Instant retrieval of Local IP, Public IP, and Default Gateway.
-- **Validated Accuracy:** Scanning logic verified against industry-standard `nmap`.
-- **Identity Protection:** Easy check for your digital footprint and VPN status.
-  <img width="626" height="711" alt="Screenshot_2026-03-08_07-14-49" src="https://github.com/user-attachments/assets/c40f44e7-20d6-4caa-85de-26cd6dd5a6c8" />
+**NoMap** is a lightning-fast, multi-threaded network scanner designed by **en1passant**. It aims to provide a cleaner, faster, and highly automated alternative to traditional scanning tools.
 
-🛡️ Educational Purposes
-This tool is created for Educational Purposes Only. Please use it responsibly and only on networks/systems you have permission to test.
-Developed by: en1passant
+---
 
-## 🛠️ Installation
-```bash
-git clone [https://github.com/en1passant/NoMap.git](https://github.com/en1passant/NoMap.git)
-cd NoMap
-pip install pyfiglet termcolor
-python3 nomap.py
+## 🔥 Features (v2.0)
+* ⚡ **Multi-threaded Deep Scan:** Scans 1000+ ports in milliseconds.
+* 🤖 **Auto-Chaining:** Automatically detects open ports -> Asks to extract Service Intel (Banners) -> Saves a detailed report to a `.txt` file.
+* 🌐 **Network Intel:** Gathers local IP, public gateway, and resolves hostnames on the fly.
+* 🥷 **Stealth Scan [IN DEV]:** Upcoming SYN-packet stealth scanning to bypass firewalls.
+* 🐛 **Vuln Checker [IN DEV]:** Upcoming local database integration to match banners with known CVEs.
 
+---
+/home/nohat/Desktop/NoMap/Screenshot_2026-03-08_08-03-58.png
+
+## 🚀 Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/en1passant/NoMap.git](https://github.com/en1passant/NoMap.git)
