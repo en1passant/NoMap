@@ -8,7 +8,8 @@
 - **Network Intel:** Instant retrieval of Local IP, Public IP, and Default Gateway.
 - **Validated Accuracy:** Scanning logic verified against industry-standard `nmap`.
 - **Identity Protection:** Easy check for your digital footprint and VPN status.
-  
+  <img width="626" height="711" alt="Screenshot_2026-03-08_07-14-49" src="https://github.com/user-attachments/assets/c40f44e7-20d6-4caa-85de-26cd6dd5a6c8" />
+
 🛡️ Educational Purposes
 This tool is created for Educational Purposes Only. Please use it responsibly and only on networks/systems you have permission to test.
 Developed by: en1passant
